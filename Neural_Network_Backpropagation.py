@@ -67,27 +67,3 @@ rate=2
 In_to_H=In_to_H+(rate*delta_IH)
 
 H_to_out=H_to_out+(rate*delta_HO)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
